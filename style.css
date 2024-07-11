@@ -1,0 +1,8 @@
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+   border: 2px solid;
+   border-color: rgb(9, 9, 9);
+   border-radius: 5px;
+}
